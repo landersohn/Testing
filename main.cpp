@@ -7,5 +7,6 @@ int main(int argc, char *argv[])
 #else
 	printf("hello gcc\n");
 #endif
+	printf("newFeature\n");
 	return 0;
 } 
